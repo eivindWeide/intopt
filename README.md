@@ -5,11 +5,13 @@
 #### Compile and run
 
 > gcc intopt.c -lm
+
 > ./a.out < i3
 
 Gives output
 
 > result is: 192.000000
+
 > Coefficients are: 19.000000\*x0 7.000000\*x1 0.000000\*x2
 
 #### Input format
